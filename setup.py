@@ -31,7 +31,7 @@ setup(
         'Programming Language :: Python :: 3.11',
     ],
     install_requires=[
-        'tornado>=4.5.0',
-        'paramiko>=2.3.1',
+        "tornado==6.4",
+        "paramiko==3.3.2",
     ],
 )
